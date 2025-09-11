@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5KgXF498NLdJoBySBpb6wTQYM/T97E/Tj1WMZIg+W63CpJwWEHS3gztf+N2V5zA0OodSSjfIYWb3MfOsNkrpg==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/ObjectsAndClasses/ObjectsAndClasses/ObjectsAndClasses.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

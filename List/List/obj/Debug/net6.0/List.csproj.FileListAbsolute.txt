@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/List/List/bin/Debug/net6.0/List
+/Users/ivanpeshterski/Projects/List/List/bin/Debug/net6.0/List.deps.json
+/Users/ivanpeshterski/Projects/List/List/bin/Debug/net6.0/List.runtimeconfig.json
+/Users/ivanpeshterski/Projects/List/List/bin/Debug/net6.0/List.dll
+/Users/ivanpeshterski/Projects/List/List/bin/Debug/net6.0/List.pdb
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.dll
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/refint/List.dll
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.pdb
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/List.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/List/List/obj/Debug/net6.0/ref/List.dll

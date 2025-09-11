@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/bin/Debug/net6.0/LadybugsMovement
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/bin/Debug/net6.0/LadybugsMovement.deps.json
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/bin/Debug/net6.0/LadybugsMovement.runtimeconfig.json
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/bin/Debug/net6.0/LadybugsMovement.dll
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/bin/Debug/net6.0/LadybugsMovement.pdb
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.dll
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/refint/LadybugsMovement.dll
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.pdb
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/LadybugsMovement.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/RevisionPartTwo/LadybugsMovement/obj/Debug/net6.0/ref/LadybugsMovement.dll

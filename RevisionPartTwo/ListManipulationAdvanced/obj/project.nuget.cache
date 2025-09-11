@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZ4+3ja4HCEW2+zJu7aLfzAq8fH5oqGdt+Hh0ojSxsX9rNjWUJeh7JcS0uI71BBuG7ywQe/EdQl04OEeXBN3+g==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/RevisionPartTwo/ListManipulationAdvanced/ListManipulationAdvanced.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

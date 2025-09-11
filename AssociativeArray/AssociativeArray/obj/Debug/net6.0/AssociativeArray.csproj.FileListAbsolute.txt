@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/bin/Debug/net6.0/AssociativeArray
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/bin/Debug/net6.0/AssociativeArray.deps.json
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/bin/Debug/net6.0/AssociativeArray.runtimeconfig.json
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/bin/Debug/net6.0/AssociativeArray.dll
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/bin/Debug/net6.0/AssociativeArray.pdb
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.dll
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/refint/AssociativeArray.dll
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.pdb
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/AssociativeArray.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/AssociativeArray/AssociativeArray/obj/Debug/net6.0/ref/AssociativeArray.dll

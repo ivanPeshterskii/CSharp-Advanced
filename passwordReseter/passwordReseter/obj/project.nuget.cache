@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6psJYOStoyqbYodZMvkoQkxN5L0DEPodi9SWQ+vG2AYxCL21W5TGALG/aHhkQs+doBEbYudvk98scyUYQU98Pg==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/passwordReseter/passwordReseter/passwordReseter.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
